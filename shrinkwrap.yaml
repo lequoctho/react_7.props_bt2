@@ -1,5 +1,4 @@
 dependencies:
-  '@fortawesome/fontawesome-free': 5.13.0
   react: 16.8.6
   react-dom: 16.8.6
   react-scripts: 3.0.1
@@ -1598,12 +1597,6 @@ packages:
     dev: false
     resolution:
       integrity: sha512-6It2EVfGskxZCQhuykrfnALg7oVeiI6KclWSmGDqB0AiInVrTGB9Jp9i4/Ad21u9Jde/voVQz6eFX/eSg/UsPA==
-  /@fortawesome/fontawesome-free/5.13.0:
-    dev: false
-    engines:
-      node: '>=6'
-    resolution:
-      integrity: sha512-xKOeQEl5O47GPZYIMToj6uuA2syyFlq9EMSl2ui0uytjY9xbe8XS0pexNWmxrdcCyNGyDmLyYw5FtKsalBUeOg==
   /@hapi/address/2.0.0:
     dev: false
     resolution:
@@ -10929,7 +10922,6 @@ registry: 'https://registry.npmjs.org/'
 shrinkwrapMinorVersion: 9
 shrinkwrapVersion: 3
 specifiers:
-  '@fortawesome/fontawesome-free': ^5.13.0
   react: ^16.8.6
   react-dom: ^16.8.6
   react-scripts: ^3.0.1
