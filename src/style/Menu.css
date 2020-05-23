@@ -1,8 +1,17 @@
 .menu {
   width: 227px;
   height: 134.01px;
-  left: 41px;
-  top: 43px;
+  padding-top: 30px;
 
   background: rgba(221, 221, 221, 0.5);;
+}
+
+.menu .text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #8CDC52;
 }
